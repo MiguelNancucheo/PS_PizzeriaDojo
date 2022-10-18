@@ -1,3 +1,3 @@
-# ejercicio de JS  - Pizzaeria
+# ejercicio de JS  - Pizzeria
 
 
